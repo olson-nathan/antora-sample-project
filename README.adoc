@@ -1,0 +1,9 @@
+= Antora Sample Project
+Nathan Olson <nsolson15@gmail.com>
+1.0, 2019-09-04
+
+
+== Description
+
+This is a sample repository to test out the Antora site documentation generation.
+
